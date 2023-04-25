@@ -3,7 +3,7 @@ const monkeyList = [{
     "description": "Découvrez notre adorable lémurien, avec ses grands yeux émerveillés et sa fourrure douce. Ce petit primat est le compagnon parfait pour apporter de la joie et de la bonne humeur à votre foyer. Adoptez dès maintenant votre lémurien et laissez-vous charmer par sa personnalité espiègle !",
     "prix": "9.99M",
     "img": "./ressources/lemur.jpeg",
-    "Habitat": ["Madagascar"]
+    "Habitat": "Madagascar"
     },
 
     {
@@ -11,7 +11,7 @@ const monkeyList = [{
         "description": "Le tamarin est un petit singe plein d'énergie et de vivacité. Avec sa petite taille et son pelage coloré, il apportera une touche d'exotisme à votre quotidien. Jouez et câlinez votre tamarin tous les jours, et découvrez une relation unique avec ce primat plein de malice.",
         "prix": "10.99M",
         "img": "./ressources/Tamoreo.jpeg",
-        "ingredients":"" 
+        "Habitat": "Jungle est-Asiatique" 
     },
 
     {
@@ -19,7 +19,7 @@ const monkeyList = [{
     "description": "Le macaque est un singe intelligent et joueur, capable de vous surprendre chaque jour. Avec sa fourrure épaisse et sa queue touffue, il est non seulement un animal de compagnie fascinant, mais aussi un véritable ami fidèle. Laissez-vous séduire par la beauté de notre macaque et offrez-lui une maison chaleureuse dès maintenant.",
     "prix": "12.99M",
     "img": "./ressources/macaque.jpeg",
-    "ingredients": ["steak de haricots noirs", "pain au levain", "fromage de chèvre", "roquette", "oignons rouges marinés", "sauce épicée"]
+    "Habitat": "Afrique Centrale, Est-Asiatique"
     },
     
     {
@@ -27,7 +27,7 @@ const monkeyList = [{
     "description": "Le chimpanzé est un primate intelligent, amical et joueur, au pelage doux et foncé avec des bras longs et forts. Bien qu'ils ne conviennent pas comme animaux domestiques, nos chimpanzés élevés en captivité sont en bonne santé et ont tous les papiers en règle. Adoptez un chimpanzé peut être une expérience merveilleuse et enrichissante. ",
     "prix": "13.99M",
     "img": "./ressources/Panze.jpeg",
-    "ingredients": ["steak", "bacon", "pain brioché", "fromage suisse", "oignons frits", "sauce BBQ"]
+    "Habitat": "Afrique Centrale, Amazonie"
     },
 
     {
@@ -35,7 +35,7 @@ const monkeyList = [{
     "description": "L'orang-outan est un singe majestueux et imposant, avec ses longs bras et son pelage roux. C'est un animal intelligent et affectueux, qui saura vous étonner par sa capacité à communiquer et à s'adapter à son environnement. Si vous cherchez un compagnon qui vous accompagnera toute votre vie, l'orang-outan est fait pour vous.",
     "prix": "15.99M",
     "img": "./ressources/orange.jpeg",
-    "ingredients": ["steak", "bacon", "pain brioché", "fromage suisse", "oignons frits", "sauce BBQ"]
+    "Habitat": "Amazonie, Est-Asiatique"
     },
 
     {
@@ -43,7 +43,7 @@ const monkeyList = [{
         "description": "Le gorille est l'un des plus grands primates du monde, mais derrière sa taille impressionnante se cache une âme sensible et affectueuse. Adopter un gorille, c'est faire le choix d'un animal intelligent, protecteur et aimant. Offrez à votre famille une expérience unique en accueillant un gorille dans votre foyer.",
         "prix": "16.99M",
         "img": "./ressources/Gor.jpeg",
-        "ingredients": ["steak", "bacon", "pain brioché", "fromage suisse", "oignons frits", "sauce BBQ"]
+        "Habitat": "Afrique Centrale"
     },
 
 
